@@ -1,6 +1,8 @@
 **************************
-Read the Docs Sphinx Theme
+Read the Docs Sphinx Theme by SEO Becak → link_
 **************************
+
+.. _link: https://kukode.in
 
 .. image:: https://img.shields.io/pypi/v/sphinx_rtd_theme.svg
    :target: https://pypi.python.org/pypi/sphinx_rtd_theme
